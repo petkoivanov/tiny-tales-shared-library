@@ -1,7 +1,127 @@
 {
   "version": 1,
-  "updatedAt": 1767451444055,
+  "updatedAt": 1767475280291,
   "stories": [
+    {
+      "id": "the-dragon-dance-crew",
+      "title": "The Dragon Dance Crew",
+      "description": "I want my story to be about buildings dragons tornadoes dancing monkeys and gorilla",
+      "authorStyleId": "sandra-boynton",
+      "readingLevel": "emerging",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 6,
+      "thumbnail": "",
+      "addedAt": 1767475280289,
+      "downloadUrl": "stories/the-dragon-dance-crew_1767475280289.tinytale"
+    },
+    {
+      "id": "goldie-and-gray",
+      "title": "Goldie and Gray",
+      "description": "a story about a golden dragon and a great silver gorilla",
+      "authorStyleId": "sandra-boynton",
+      "readingLevel": "emerging",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 6,
+      "thumbnail": "",
+      "addedAt": 1767475276487,
+      "downloadUrl": "stories/goldie-and-gray_1767475276487.tinytale"
+    },
+    {
+      "id": "tommy-tree-saves-the-day",
+      "title": "Tommy Tree Saves the Day!",
+      "description": "A walking and talking tree who wants to save its forest and his friends. They are humans who want to destroy the forest. The little tree has to pass challenges to save the forest and his friends.",
+      "authorStyleId": "mo-willems",
+      "readingLevel": "growing",
+      "illustrationStyleId": "soft_watercolor",
+      "pageCount": 10,
+      "thumbnail": "",
+      "addedAt": 1767475271759,
+      "downloadUrl": "stories/tommy-tree-saves-the-day_1767475271759.tinytale"
+    },
+    {
+      "id": "the-day-papa-forgot",
+      "title": "The Day Papa Forgot",
+      "description": "Измисли история за разсеян родител който е забравил детето в детската градина",
+      "authorStyleId": "shel-silverstein",
+      "readingLevel": "fluent",
+      "illustrationStyleId": "colored_pencil",
+      "pageCount": 12,
+      "thumbnail": "",
+      "addedAt": 1767475267972,
+      "downloadUrl": "stories/the-day-papa-forgot_1767475267972.tinytale"
+    },
+    {
+      "id": "wally-the-whales-worries",
+      "title": "Wally the Whale's Worries",
+      "description": "A whale trying to be safe from ships and people trying to kill the whale. He needs to overcome is fesr fo ships and then deal with trying to hunt fish",
+      "authorStyleId": "barbara-park",
+      "readingLevel": "fluent",
+      "illustrationStyleId": "soft_watercolor",
+      "pageCount": 12,
+      "thumbnail": "",
+      "addedAt": 1767475264950,
+      "downloadUrl": "stories/wally-the-whales-worries_1767475264950.tinytale"
+    },
+    {
+      "id": "sparkys-kind-heart",
+      "title": "Sparky's Kind Heart",
+      "description": "A brave little dragon",
+      "authorStyleId": "margaret-wise-brown",
+      "readingLevel": "emerging",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 6,
+      "thumbnail": "",
+      "addedAt": 1767475261877,
+      "downloadUrl": "stories/sparkys-kind-heart_1767475261877.tinytale"
+    },
+    {
+      "id": "the-treehouse-crew",
+      "title": "The Treehouse Crew",
+      "description": "A magical treehouse",
+      "authorStyleId": "margaret-wise-brown",
+      "readingLevel": "emerging",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 6,
+      "thumbnail": "",
+      "addedAt": 1767475258249,
+      "downloadUrl": "stories/the-treehouse-crew_1767475258249.tinytale"
+    },
+    {
+      "id": "the-gloopy-gleeps-and-the-game-of-giggles",
+      "title": "The Gloopy Gleeps and the Game of Giggles",
+      "description": "Alien that learn to play to laugh",
+      "authorStyleId": "maurice-sendak",
+      "readingLevel": "growing",
+      "illustrationStyleId": "whimsical_fantasy",
+      "pageCount": 10,
+      "thumbnail": "",
+      "addedAt": 1767475255783,
+      "downloadUrl": "stories/the-gloopy-gleeps-and-the-game-of-giggles_1767475255783.tinytale"
+    },
+    {
+      "id": "princess-poppy-and-the-sharing-song",
+      "title": "Princess Poppy and the Sharing Song",
+      "description": "I want a story about a dragon and dancing monkeys and a princess",
+      "authorStyleId": "maurice-sendak",
+      "readingLevel": "growing",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 10,
+      "thumbnail": "",
+      "addedAt": 1767475251910,
+      "downloadUrl": "stories/princess-poppy-and-the-sharing-song_1767475251910.tinytale"
+    },
+    {
+      "id": "the-pigeon-post-promise",
+      "title": "The Pigeon Post Promise",
+      "description": "Two sisters flying back to NY",
+      "authorStyleId": "beverly-cleary",
+      "readingLevel": "fluent",
+      "illustrationStyleId": "whimsical_fantasy",
+      "pageCount": 12,
+      "thumbnail": "",
+      "addedAt": 1767475249294,
+      "downloadUrl": "stories/the-pigeon-post-promise_1767475249294.tinytale"
+    },
     {
       "id": "star-friends",
       "title": "Star Friends",
@@ -11,7 +131,7 @@
       "illustrationStyleId": "cartoon_comic",
       "pageCount": 6,
       "thumbnail": "",
-      "addedAt": 1767451444053,
+      "addedAt": 1764859444053,
       "downloadUrl": "stories/star-friends_1767451444053.tinytale"
     },
     {
@@ -23,7 +143,7 @@
       "illustrationStyleId": "cartoon_comic",
       "pageCount": 6,
       "thumbnail": "",
-      "addedAt": 1767451441137,
+      "addedAt": 1764859441137,
       "downloadUrl": "stories/pip-the-kind-penguin_1767451441137.tinytale"
     },
     {
