@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updatedAt": 1766159755835,
+  "updatedAt": 1767451444055,
   "stories": [
+    {
+      "id": "star-friends",
+      "title": "Star Friends",
+      "description": "An adventure in space",
+      "authorStyleId": "eric-carle",
+      "readingLevel": "emerging",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 6,
+      "thumbnail": "",
+      "addedAt": 1767451444053,
+      "downloadUrl": "stories/star-friends_1767451444053.tinytale"
+    },
+    {
+      "id": "pip-the-kind-penguin",
+      "title": "Pip the Kind Penguin",
+      "description": "A talking penguin",
+      "authorStyleId": "margaret-wise-brown",
+      "readingLevel": "emerging",
+      "illustrationStyleId": "cartoon_comic",
+      "pageCount": 6,
+      "thumbnail": "",
+      "addedAt": 1767451441137,
+      "downloadUrl": "stories/pip-the-kind-penguin_1767451441137.tinytale"
+    },
     {
       "id": "zizzle-s-zany-zoom",
       "title": "Zizzle's Zany Zoom!",
