@@ -1,20 +1,12 @@
 {
   "version": 1,
-  "updatedAt": 1767475320856,
+  "updatedAt": 1774241807150,
   "currentFeatured": {
-    "id": "featured-2026-01-03",
-    "storyId": "goldie-and-gray",
-    "featuredDate": "2026-01-03",
+    "id": "featured-2026-03-23",
+    "storyId": "ferdinand-s-fiery-fruit",
+    "featuredDate": "2026-03-23",
     "creditName": null,
     "curatorNote": null
   },
-  "previousFeatured": [
-    {
-      "id": "featured-2026-01-03",
-      "storyId": "zizzle-s-zany-zoom",
-      "featuredDate": "2026-01-03",
-      "creditName": "Petko, age 32",
-      "curatorNote": "A delightful Dr. Seuss-inspired adventure about a brave little dragon named Zizzle!"
-    }
-  ]
+  "previousFeatured": []
 }
